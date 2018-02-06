@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "Atlas",
+      "reason": null,
+      "repositoryURL": "/Users/macbookpro/Desktop/trying-spm/atlas",
+      "version": "1.0.0"
+    }
+  ],
+  "version": 1
+}
